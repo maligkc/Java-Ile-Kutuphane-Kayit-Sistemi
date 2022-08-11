@@ -1,6 +1,6 @@
 # Java İle Kütüphane Kayıt Sistemi
 
-## Kendimi geliştirmek adına Java programlama dilini ve MySQL veritabanını kullanarak yaptığım basit bir kütüphane otomasyonu.
+## Kendimi geliştirmek adına Java ve MySQL veritabanı ile yaptığım basit bir kütüphane otomasyonu.
 
 
 
